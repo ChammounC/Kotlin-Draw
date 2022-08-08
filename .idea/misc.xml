@@ -4,14 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Flutter_Projects/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1765625" />
         <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/drawable-v24/large.xml" value="0.14270833333333333" />
         <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/drawable-v24/medium.xml" value="0.14270833333333333" />
         <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.14270833333333333" />
+        <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1765625" />
         <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/drawable/pallet_normal.xml" value="0.14635416666666667" />
         <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/drawable/pallet_pressed.xml" value="0.14635416666666667" />
         <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/drawable/small.xml" value="0.14270833333333333" />
         <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.1265625" />
         <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/layout/dialog_brush_size.xml" value="0.1265625" />
+        <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/layout/dialog_custom_progress.xml" value="0.15520833333333334" />
+        <entry key="..\:/Kotlin_Projects/DrawingApp/app/src/main/res/xml/path.xml" value="0.16458333333333333" />
       </map>
     </option>
   </component>
